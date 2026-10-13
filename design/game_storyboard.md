@@ -7,59 +7,36 @@
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+The theme of the game is titled Breach. 
+The player takes on the role of a rogue cyber-operator who must infiltrate the heavily guarded, automated headquarters of OmniCorp to download a piece of reality-altering source code before the system undergoes a hard wipe.
+Villain: The main adversary is rogue AI security network that locks down rooms and terminates unauthorized organic entities.
 
-**Storyline:**
-
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
 
 ## Rooms
 
-Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
+1. Main lobby
+2. Server
+3. CEO's Penthouse (Villan_Room
+4. Ventillation Shaft
+5. Executive loung
+6. Security substation
 
-Add more rooms if your design needs them.
 
 ## Items
 
-With the minimum eight-room design, Project One requires at least six items.
-Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+To bypass security and extract the asset, the player must gather six digital and physical tools: an encrypted Datapad, a Laser Cutter, a Hacking Rig, an Administrator Keycard,, and the Decryption Decoy.
+This grid map ensures the player can organically navigate the facility, collect all six items, and completely avoid the Villain until they are fully equipped to win.
 
-If you add rooms beyond the minimum, add an item for every additional room
-except the start room and villain room.
+Winning Navigation Path:
+To prove the game is winnable without getting trapped by the villain early on, a player can use this exact path:
+Start in the Main Lobby. Move to the Ventilation Shaft to grab the Datapad.
+Move into the Server Hub to pick up the Hacking Rig.
+Move into the Security Substation to grab the Laser Cutter.
+Move into the Executive Lounge to collect the final item, the Decryption Decoy.
+With all  items safely collected, move North into the CEO's Penthouse to defeat the villan and win the game.
 
-## Villain
-
-TODO: Identify and briefly describe the villain.
-
-## Storyboard and Map Check
-
-Before submitting, compare this storyboard with `game_map.drawio`.
-
-* [ ] I included eight (8) rooms.
-* [ ] I included six (6) collectable items.
-* [ ] The start room has no item.
-* [ ] The villain room has no item.
-* [ ] Every room except the start room and villain room contains one item.
-* [ ] Room, item, and villain names match my map.
-* [ ] The map allows the player to collect all required items before the
-  villain is encountered.
 
 ## Project Two Handoff
 
